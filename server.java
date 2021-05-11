@@ -1,11 +1,3 @@
-/*
-CANTONG, Jerome E.
-CARANGAN, Ella Grace S.
-CENIZA, Rhendon M.
-
-CPE - 2D
-*/
-
 import java.io.*; //importing this, it let us use input and output functions
 import java.net.*; //it provides the classes for implementing networking applications
 
@@ -39,7 +31,7 @@ public class server {
 				msgout = br.readLine();  //scans a message to be send to client
 				dout.writeUTF(msgout);; //sends message to the client
 				
-				dout.flush(); //buffered output will be fluhed
+				dout.flush(); //buffered output will be fluxhed
 			}
 			
 			s.close(); //closes the socket
