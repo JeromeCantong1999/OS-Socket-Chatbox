@@ -9,6 +9,6 @@ Submitted by: <br/>
 
 
 
-Submitted to <br/>
+Submitted to: <br/>
 	Engr. Wencel Jean S. Carranza-Dacay
   
