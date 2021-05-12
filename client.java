@@ -1,3 +1,10 @@
+/* CANTONG, Jerome E.
+ * CARANGAN, Ella Grace S.
+ * CENIZA, Rhendon M.
+ * 
+ * CPE-2D
+ * */
+
 import java.io.*; //importing this, it let us use input and output functions
 import java.net.*; //it provides the classes for implementing networking applications
 
