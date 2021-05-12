@@ -1,14 +1,14 @@
-OS Activity 3: Process Implementation, Server-Side Codebase
+OS Activity 3: Process Implementation, Server-Side Codebase <br/><br/>
 
 
-Submitted by:
-	CANTONG, Jerome E.
-	CARANGAN, Ella Grace S.
-	CENIZA, Rhendon M.
-	CPE -2D
+Submitted by: <br/>
+	CANTONG, Jerome E. <br/>
+	CARANGAN, Ella Grace S. <br/>
+	CENIZA, Rhendon M. <br/>
+	CPE -2D <br/> <br/>
 
 
 
-Submitted to:
+Submitted to <br/>
 	Engr. Wencel Jean S. Carranza-Dacay
   
